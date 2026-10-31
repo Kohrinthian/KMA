@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: KMA
+## Notes: Custom Minimap Arrow with live scaling and rotation for Azeroth Survivors
+## Author: Kohrinthian
+## SavedVariables: KMADB
+KMA.lua
